@@ -1,6 +1,6 @@
 {
     "LinkPP": "https://raw.githubusercontent.com/crazymonkeyyer/crazyklo/main/privacypolicy",
-    "IsAccess": false,
+    "IsAccess": true,
     "Locales": ["Russian"],
     "TimeZs": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
     "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
